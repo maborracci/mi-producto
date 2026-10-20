@@ -34,4 +34,9 @@ Fuente de todo el embudo: datos compartidos por Ayelen el 2026-10-20 (sistema de
 Ordenadas por impacto × incertidumbre. La primera es la próxima a atacar.
 
 1. [product] [value] Las cuentas recurrentes se quedan por la derivación automática a droguerías y la gestión de cuenta corriente, no por el cobro en sí: si perdieran la derivación, la mayoría volvería a su medio de cobro anterior.
-2. [product] [viability] El nivel de comisiones no es motivo de abandono ni de que una farmacia aprobada no llegue a activarse.
+   - Primer ataque: comparar la cantidad de reglas de derivación activas por cuenta entre recurrentes y sin uso.
+2. [product] [value] Las 800 cuentas sin uso nunca reemplazaron su medio de cobro principal (posnet bancario, Mercado Pago): usaron Farmapay como complemento y lo abandonaron porque no les cambió la operación diaria.
+3. [product] [value] Los ~61 días de onboarding enfrían a la farmacia: las cuentas con altas más largas tienen menor tasa de activación y de uso a 30 días.
+4. [product] [viability] Las farmacias eligen cobrar con tarjeta de crédito en Farmapay por la acreditación más rápida y aceptan pagar más comisión por eso; el cobro por transferencia, que no genera ingresos, no está desplazando al cobro con comisión.
+5. [product] [viability] El nivel de comisiones no es motivo de abandono ni de que una farmacia aprobada no llegue a activarse.
+   - Acción prevista: mostrar casos de éxito con el ahorro en comisiones frente a otras plataformas.
