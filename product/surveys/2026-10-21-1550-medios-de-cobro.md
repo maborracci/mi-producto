@@ -135,7 +135,7 @@ R3. Si respondiste que sí, ¿cómo te contactamos? Nombre y WhatsApp o mail. [a
 
 Descartado: grupos de WhatsApp con droguerías (decisión de Ayelen, 2026-10-21). El viajante es el acreedor de la cuenta corriente y puede sesgar lo que la farmacia declara sobre cobros por fuera.
 
-- **n objetivo:** al menos 30 respuestas válidas de cuentas por debajo del promedio y al menos 30 de redes (2 a 50 bocas). Con menos de 30 por segmento, los resultados son direccionales.
-- **Factibilidad:** con un 5% a 10% de respuesta en el envío masivo salen ~110 a 215 respuestas, suficiente para las cuentas por debajo del promedio, sobre todo con el refuerzo de las llamadas. Las redes son el riesgo: no sabemos cuántas de las cuentas en uso son redes. Si son menos de ~300, es difícil llegar a 30 y ese corte queda direccional.
+- **n objetivo:** al menos 30 respuestas válidas de cuentas por debajo del promedio y al menos 30 de farmacias de una sola boca de segmento 3 (mediana) o menor del padrón. Con menos de 30 por segmento, los resultados son direccionales.
+- **Factibilidad:** según Ayelen, ~85% de las cuentas son farmacias individuales de una sola boca y de segmento 3 o menor (2026-10-21). Con un 5% a 10% de respuesta en el envío masivo salen ~110 a 215 respuestas, suficiente para los dos cortes. El ~15% restante (redes de 2 o más bocas y farmacias de segmento 4 y 5, unas 320 cuentas) daría ~15 a 30 respuestas: ese corte queda direccional, aunque el segmento 5 concentre casi dos tercios del volumen digital del padrón.
 - **Primera revisión:** 2026-10-30, para tener entrevistados reclutados antes del 2026-11-11.
 - **Cierre:** abierta hasta llegar al n objetivo.
