@@ -5,8 +5,11 @@
   2. **Cuánto cuesta conciliar varios medios y quién lo hace.** Mide el tamaño del costo del reparto (creencia #1, parte 2). Decide: si el control lleva poco tiempo y casi no hay sorpresas, la conciliación no sirve como argumento para concentrar.
   3. **Qué medio es el principal, quién lo eligió y con qué criterio.** Cuenta los criterios conocidos (acreditación, comisión, derivación, banco, costumbre) y si la transferencia está ganando lugar (creencias #2 y #5). Decide qué argumento probar primero en las entrevistas y en la solución.
   4. **Reclutar entrevistados** para la fila 4 de la agenda (8 a 10 titulares o administradores con participación baja).
+- **Criterios de falsación** (Ayelen, 2026-10-21; umbrales propuestos, a confirmar antes de la primera revisión):
+  - **Conciliación como palanca para concentrar.** Se debilita si, entre las cuentas con alto reparto (Farmapay < 50% en Q2, o 3 o más medios con tarjeta/QR en Q1), al menos el 60% declara menos de 30 minutos semanales de control (Q6) y 0 o 1 incidente en el último mes (Q8), y la Q10 no trae dolor concreto. Que no lo vivan como costo se confirma en las entrevistas.
+  - **Creencia #5 (la transferencia no desplaza al cobro con comisión).** Pierde fuerza si quienes pasaron más ventas a transferencia (Q9) eligen sobre todo "la plata está disponible al instante" o "es más simple" en la Q9b, y no "no paga comisión". En ese caso el desplazamiento viene por acreditación y simplicidad, que Farmapay puede atacar sin bajar la comisión. Que el desplazamiento exista se mide con los datos de transferencia por cuenta, no con la encuesta.
 - **Respondentes:** titulares, socios, administración o encargados de farmacias independientes y redes de hasta 50 bocas que cobraron con Farmapay en los últimos 30 días (cuentas en uso, ~2.150). Fuera: cajeros y empleados de mostrador, cadenas de más de 50 bocas, cuentas sin uso.
-- **Duración estimada:** 3 de filtro + 10 preguntas, ~6 minutos (la Q2 es la más pesada).
+- **Duración estimada:** 3 de filtro + 11 preguntas, ~6 minutos (la Q2 es la más pesada).
 - **Campo oculto:** `cuenta` (id de la cuenta Farmapay) y `canal`, en el link. Permite cruzar cada respuesta con el volumen real, el padrón y el estado en el embudo sin preguntar el CUIT.
 
 ## Texto de apertura (para la persona que responde)
@@ -110,6 +113,15 @@ Q9. En los últimos 6 meses, ¿cambió por dónde pasan la mayor parte de los co
    - No cambió
    - No sé
    > Objetivo: 3 (creencia #5: ¿la transferencia está desplazando al cobro con comisión?)
+
+Q9b. (Solo si en Q9 eligió "más ventas por transferencia") ¿Qué los llevó a pasar más ventas por transferencia? Elegí hasta 2. [opción múltiple, máximo 2]
+   - No paga comisión
+   - La plata está disponible al instante
+   - Es más simple para el mostrador
+   - Los clientes la prefieren
+   - Evitamos retenciones o contracargos
+   - Otro
+   > Objetivo: 3 (criterio de falsación de la creencia #5)
 
 Q10. ¿Qué es lo más difícil de manejar cobros por varios medios a la vez? [abierta, opcional]
    > Objetivo: 2. Lenguaje propio para las entrevistas y para la solución.
